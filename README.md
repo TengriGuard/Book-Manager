@@ -13,7 +13,6 @@ An easy-to-use command-line tool to manage your personal book collection. Keep t
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your_username/personal-library-manager.git
 cd personal-library-manager
 
 Usage
